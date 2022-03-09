@@ -1,0 +1,7 @@
+* passos para enviar um projeto para o github:
+
+git add .
+
+git commit -m "qualquer mensagem"
+
+git push
